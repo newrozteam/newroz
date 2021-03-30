@@ -84,5 +84,5 @@ if [ ! -f ./tg ]; then
 echo "Tg Is Not Found"
 exit 1
 fi
-./tg -s Devprox.lua
+./tg -s DevProx.lua
 fi
