@@ -3,7 +3,7 @@ THIS_DIR=$(cd $(dirname $0); pwd)
 cd $THIS_DIR
 install() {
 reset
-echo -e "\e[38;5;77m • Welcome to Source FLAiN - اهلا بك في سورس NeWrOz •\e[0m"
+echo -e "\e[38;5;77m • Welcome to Source NeWroz- اهلا بك في سورس NeWrOz •\e[0m"
 echo -e "\e[38;5;77m      •{ Setting up offices - جاري رفع المكاتب } •\e[0m"
 echo -e "\e[38;5;77m • Installing Source NeWrOz - جاري تحميل سورس NeWrOz •\e[0m"
 echo -e "\e[38;5;77m                             {0%}\e[0m"
