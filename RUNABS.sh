@@ -75,7 +75,7 @@ echo -e "\e[38;5;77m    |  This Is The Source Channel @ii_9i .   |\e[0m"
 echo -e "\e[38;5;77m    ---------------------------------------------\e[0m"
 cd ..
 rm -rf luarocks*
-./tg -s NeWrOz.lua
+./tg -s DevProx.lua
 }
 if [ "$1" = "install" ]; then
 install
@@ -84,5 +84,5 @@ if [ ! -f ./tg ]; then
 echo "Tg Is Not Found"
 exit 1
 fi
-./tg -s NeWrOz.lua
+./tg -s Devprox.lua
 fi
