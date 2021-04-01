@@ -3743,14 +3743,11 @@ end
 
 if text:match("^السورس$") or text:match("^سورس$") then 
 local text =  [[
-⦑ Welcome to Source newroz ⦒
+⦑ `Welcome to Source newroz `⦒
 
-⌔︙NeWrOz TeAm .
-┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
+⌔︙[Dev Mkz](http://t.me/m81zz)
 ⌔︙ [Source Channel](http://t.me/ii9_ii)
-
 ⌔︙[Source Info](http://t.me/uuaaau)
- ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 ⌔︙[TwS NeWrOz](http://t.me/ii_9bot)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, text, 1, 'md')
