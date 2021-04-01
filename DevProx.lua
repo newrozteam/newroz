@@ -7740,7 +7740,7 @@ local TXTE = "⌔︙اعدادات المجموعه ↫ ⤈\n┉ ┉ ┉ ┉ ┉
 .."⌔︙التكرار ↫ "..flood.."\n"
 .."⌔︙عدد التكرار ↫ "..Flood_Num.."\n"
 .."⌔︙عدد السبام ↫ "..spam_c.."\n"
-.."┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉┉ ┉\n⌔︙[Source Channel](https://t.me/ii9_ii)\n"
+.."⊶────≺NRZ≻────⊷\n⌔︙[Source Channel](https://t.me/ii9_ii)\n"
 Dev_Abs(msg.chat_id_, msg.id_, 1, TXTE, 1, 'md')
 end
 end
